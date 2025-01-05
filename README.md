@@ -53,7 +53,6 @@ Each assignment contributes to crafting a data-driven narrative that highlights 
 ## Key Features
 - **SQL Expertise**: Advanced SQL queries for trend analysis, customer segmentation, and performance evaluation.
 - **Business Insights**: Data-driven recommendations for improving marketing strategies, optimizing products, and enhancing customer retention.
-- **Visualization-Ready**: Results formatted for easy integration with BI tools like Tableau or Power BI.
 
 ---
 
