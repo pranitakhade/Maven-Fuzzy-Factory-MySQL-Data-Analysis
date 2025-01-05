@@ -1,4 +1,4 @@
-# Advanced MySQL Analysis for Business Growth Insights
+# Maven Fuzzy Factory MySQL Data Analysis
 
 This project involves leveraging MySQL to analyze website traffic, customer behavior, marketing channel performance, and product sales data. The objective is to provide actionable insights into key business metrics and help drive growth strategies.
 
